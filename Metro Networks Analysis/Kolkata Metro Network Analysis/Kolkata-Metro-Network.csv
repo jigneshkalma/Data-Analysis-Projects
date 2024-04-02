@@ -1,0 +1,39 @@
+Station ID,Station Name,Distance from Start (km),Line,Opening Date,Station Layout,Latitude,Longitude
+1,Kavi Subhash,0,Blue Line,2010-10-07,At Grade,22.472175,88.397891
+2,Sahid Khudiram,1,Blue Line,2010-10-07,Elevated,22.466045,88.391162
+3,Kavi Nazrul,1.7,Blue Line,2009-08-22,Elevated,22.465071,88.382906
+4,Gitanjali,2.9,Blue Line,2009-08-22,Elevated,22.469459,88.369718
+5,Mastendra Surya Sen,3.8,Blue Line,2009-08-22,Elevated,22.473434,88.360851
+6,Netaji,5.4,Blue Line,2009-08-22,Elevated,22.481009,88.345904
+7,Mahanayak Uttam Kumar,6,Blue Line,1986-04-29,At Grade,22.495012,88.345032
+8,Rabindra Sarobar,6.7,Blue Line,1986-04-29,Underground,22.50788,88.345544
+9,Kalighat,7.3,Blue Line,1986-04-29,Underground,22.516866,88.346107
+10,Jatin Das park,7.7,Blue Line,1986-04-29,Underground,22.522186,88.346521
+11,Netaji Bhavan,8.6,Blue Line,1984-10-24,Underground,22.532969,88.345939
+12,Rabindra Sadan,9.1,Blue Line,1984-10-24,Underground,22.539318,88.346724
+13,Maidan,9.9,Blue Line,1984-10-24,Underground,22.549355,88.349466
+14,Park Street,10.4,Blue Line,1984-10-24,Underground,22.554516,88.349766
+15,Esplande,11.1,Blue Line,1984-10-24,Underground,22.563017,88.35127
+16,Chandni Chowk,11.4,Blue Line,1995-02-15,Underground,22.567664,88.355261
+17,Central,11.6,Blue Line,1995-02-15,Underground,22.570223,88.358158
+18,Mahatma Gandhi Road,12.6,Blue Line,1995-09-15,Underground,22.580696,88.361381
+19,Girish Park,13.2,Blue Line,1995-02-15,Underground,22.587155,88.362867
+20,Shobhabazar Sutanuti,14.1,Blue Line,1995-02-15,Underground,22.596025,88.365285
+21,Shaymbazar,14.5,Blue Line,1995-02-15,Underground,22.601299,88.372586
+22,Belgachia,14.8,Blue Line,1984-11-12,Underground,22.60573,88.386354
+23,Dum Dum,16.5,Blue Line,1984-11-12,Elevated,22.621461,88.392804
+24,Noapara,18.6,Blue Line,2013-07-10,Elevated,22.639895,88.394101
+25,Baranagar,20.1,Blue Line,2021-02-22,Elevated,22.653285,88.380372
+26,Dakshineswar,20.4,Blue Line,2021-02-22,Elevated,22.654108,88.365128
+27,Salt Lake Sector - V,0,Green Line,2020-02-13,Elevated,22.580939,88.429052
+28,Karunamoyee,1.1,Green Line,2020-02-13,Elevated,22.587016,88.421108
+29,Central Park,1.7,Green Line,2020-02-13,Elevated,22.590395,88.41551
+30,City Center,2.3,Green Line,2020-02-13,Elevated,22.58711,88.407932
+31,Bengal Chemical,2.8,Green Line,2024-02-13,Elevated,22.580016,88.401377
+32,Salt Lake Stadium,2.8,Green Line,2024-02-13,Elevated,22.573076,88.403594
+33,Phoolbagan,4.2,Green Line,2020-10-04,Underground,22.572044,88.389608
+34,Sealdah,6.3,Green Line,2022-07-11,Underground,22.566826,88.369897
+35,Esplande,8.2,Green Line,2024-03-06,Underground,22.563017,88.35127
+36,Mahakaran,8.1,Green Line,2024-03-06,Underground,22.572459,88.350827
+37,Howrah,9.2,Green Line,2024-03-06,Underground,22.583833,88.339832
+38,Howrah Maidan,9.8,Green Line,2024-03-06,Underground,22.583378,88.333798
